@@ -72,11 +72,10 @@ https://github.com/Carbs0126/GregorianLunarCalendar
 or
 ```xml
     <dependency>
-      <groupId>cn.carbswang.android</groupId>
-      <artifactId>NumberPickerView</artifactId>
-      <version>1.2.0</version>
-      <type>pom</type>
-    </dependency>
+    <groupId>com.github.groupits</groupId>
+    <artifactId>NumberPickerView</artifactId>
+    <version>1.2.1</version>
+</dependency>
 ```
 2.add a NumberPickerView in xml
 ```xml
