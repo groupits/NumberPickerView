@@ -67,7 +67,7 @@ https://github.com/Carbs0126/GregorianLunarCalendar
 
 1.import to project
 ```groovy
-    implementation 'cn.carbswang.android:NumberPickerView:1.2.0'
+    implementation 'com.github.groupits:NumberPickerView:1.2.1'
 ```
 or
 ```xml
